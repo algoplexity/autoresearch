@@ -1,0 +1,4 @@
+rustbpe
+tiktoken
+pyarrow
+requests
