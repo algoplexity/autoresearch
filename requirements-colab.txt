@@ -2,3 +2,4 @@ rustbpe
 tiktoken
 pyarrow
 requests
+flash-attn
